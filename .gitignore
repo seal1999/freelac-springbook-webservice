@@ -1,3 +1,4 @@
 # Project exclude paths test
 .gradle
 .idea
+application-oauth.properties
